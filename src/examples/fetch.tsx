@@ -1,4 +1,3 @@
-import { NextResponse } from "next/server"
 const main = async () => {
   // If the cache is fresh, return it.
   // If the cache is not fresh, check if the resource has changed;
